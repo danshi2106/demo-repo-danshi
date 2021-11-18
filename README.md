@@ -1,2 +1,2 @@
 # demo-repo-danshi
-Demo Repo
+Demo Repo for GIT training
